@@ -24,7 +24,7 @@
 
    Expand the P&L report by Fiscal Year to report by _[month](https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20monthly.pdf)_
 
-   **2.** Create _[Profit and Loss (P&L) reports by Markets](https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20of%20market.pdf)_
+   **2.** Create _[Profit and Loss (P&L) reports of Markets](https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20of%20market.pdf)_
   
    **3** Create _[Gross margin report by quarter for different sub_zones](https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/Gross%20Margin%20performance%20by%20Quarter.pdf)_
 
