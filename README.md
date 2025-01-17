@@ -19,8 +19,8 @@
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by Fiscal Year(https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20by%20fiscal%20year.pdf)_ 
-- Expand the report in detail by country(https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20country%20wise.pdf)
-- Further expand the P&L report by Fiscal Year to report by month(https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20monthly.pdf)_
+ Expand the report in detail by country(https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20country%20wise.pdf)
+ Further expand the P&L report by Fiscal Year to report by month(https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20monthly.pdf)_
 
    **2.** Create Profit and Loss (P&L) reports by Markets(https://github.com/NidhiNathavani/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20report%20of%20market.pdf)_
   
